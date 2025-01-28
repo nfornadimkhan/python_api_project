@@ -1,4 +1,5 @@
 # Federal Register API Data Extraction Project
+Assignment submited for the module: Practical Programming with Python - University of Hohenheim.
 
 ## Project Overview
 This project involves working with the Federal Register API to extract and analyze presidential document information. The Federal Register API is provided by the Office of the Federal Register (OFR) of the National Archives and Records Administration (NARA) and the U.S. Government Publishing Office (GPO) to make government decision-making more accessible to citizens.
@@ -45,6 +46,3 @@ This project involves working with the Federal Register API to extract and analy
 3. Knowledge of working with JSON data
 4. Practice with pandas DataFrame operations
 5. File I/O operations in Python
-
-## Institution Information
-University of Hohenheim  
